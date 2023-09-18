@@ -7,9 +7,16 @@
 
 import Foundation
 
+// TODO: Pt 2 - Create a TracksResponse Model
+
+struct TracksResponse: Decodable {
+    let resultCount: Int
+    let results: [Track]
+}
+
 // TODO: Pt 1 - Create a Track model struct
 
-struct Track {
+struct Track: Decodable {
     let trackName: String
     let artistName: String
     let artworkUrl100: URL
