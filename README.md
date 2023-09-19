@@ -2,7 +2,7 @@
 
 Submitted by: **Kyler Mallonn**
 
-**Unit 3 Lab** is a music browsing app that allows you to view an artists's most popular songs with info about each one including the song's album name, genre, release date and duration using [Itunes Search API.]([https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed](https://itunes.apple.com/search?term=sum_41&attribute=artistTerm&entity=song&media=music))
+**Unit 3 Lab** is a music browsing app that allows you to view an artists's most popular songs with info about each one including the song's album name, genre, release date and duration using [ITunes Search API.](https://itunes.apple.com/search?term=sum_41&attribute=artistTerm&entity=song&media=music)
 
 
 Time spent: **8** hours spent in total
