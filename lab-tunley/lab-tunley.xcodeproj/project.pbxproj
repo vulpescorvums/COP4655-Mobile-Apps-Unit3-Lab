@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		090ED9C02AB91E36003A74FF /* AlbumCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090ED9BF2AB91E36003A74FF /* AlbumCell.swift */; };
 		095387862AB8F57500DA435E /* AlbumsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095387852AB8F57500DA435E /* AlbumsViewController.swift */; };
 		095387882AB8F9B100DA435E /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095387872AB8F9B100DA435E /* Album.swift */; };
 		CB7254DF2939D37800F531FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7254DE2939D37800F531FB /* AppDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		090ED9BF2AB91E36003A74FF /* AlbumCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumCell.swift; sourceTree = "<group>"; };
 		095387852AB8F57500DA435E /* AlbumsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumsViewController.swift; sourceTree = "<group>"; };
 		095387872AB8F9B100DA435E /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
 		CB7254DB2939D37800F531FB /* lab-tunley.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lab-tunley.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,6 +75,7 @@
 				CB7254E22939D37800F531FB /* TracksViewController.swift */,
 				CB8B1546293EFCA100397B69 /* DetailViewController.swift */,
 				095387852AB8F57500DA435E /* AlbumsViewController.swift */,
+				090ED9BF2AB91E36003A74FF /* AlbumCell.swift */,
 				CB7254DE2939D37800F531FB /* AppDelegate.swift */,
 				CB7254E02939D37800F531FB /* SceneDelegate.swift */,
 				CB7254E42939D37800F531FB /* Main.storyboard */,
@@ -177,6 +180,7 @@
 				CB7254E12939D37800F531FB /* SceneDelegate.swift in Sources */,
 				CB7254F6293B224000F531FB /* Track.swift in Sources */,
 				095387882AB8F9B100DA435E /* Album.swift in Sources */,
+				090ED9C02AB91E36003A74FF /* AlbumCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
